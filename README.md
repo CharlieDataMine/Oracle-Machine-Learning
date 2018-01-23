@@ -12,4 +12,4 @@ Key Features:
 * SQL and PL/SQL scripting language supported
 * Enables and Supports Deployments of Enterprise Machine Learning Methodologies in ADWC
 
- See Introducing Oracle Machine Learning SQL Notebooks for the Oracle Autonomous Data Warehouse Cloud!blog post for more information.  https://blogs.oracle.com/datamining/introducing-oracle-machine-learning-sql-notebooks-for-the-oracle-autonomous-data-warehouse-cloud 
+ See Introducing Oracle Machine Learning SQL Notebooks for the Oracle Autonomous Data Warehouse Cloud! blog post (https://blogs.oracle.com/datamining/introducing-oracle-machine-learning-sql-notebooks-for-the-oracle-autonomous-data-warehouse-cloud ) for more information.  
